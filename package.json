@@ -1,0 +1,12 @@
+{
+  "name": "aws-xray-relay",
+  "version": "1.0.0",
+  "description": "Xray/V2ray WebSocket Relay on AWS Elastic Beanstalk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
